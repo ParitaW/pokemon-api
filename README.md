@@ -13,3 +13,5 @@
 
 ## Resources
 - Pokémon API
+
+Run `npm start`
